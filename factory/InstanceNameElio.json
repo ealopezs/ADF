@@ -1,0 +1,9 @@
+{
+	"name": "InstanceNameElio",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f867c60e-e432-4b77-9937-cce2f3a3dfbc",
+		"tenantId": "1dc9b339-fadb-432e-86df-423c38a0fcb8"
+	}
+}
