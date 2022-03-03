@@ -10,7 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"fileName": "JSON1",
+				"fileName": "InputDataset",
 				"folderPath": "input",
 				"container": "adftutorial"
 			}
