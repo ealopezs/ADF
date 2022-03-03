@@ -1,5 +1,5 @@
 {
-	"name": "Json1",
+	"name": "InputDataset",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "AzureBlobStorage1",
@@ -10,6 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
+				"fileName": "JSON1",
 				"folderPath": "input",
 				"container": "adftutorial"
 			}
